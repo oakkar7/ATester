@@ -1,0 +1,29 @@
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\bin\Debug\ATester.exe
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\bin\Debug\ATester.pdb
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\bin\Debug\ATester.xml
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\ATester.exe
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\ATester.xml
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\ATester.pdb
+C:\Documents and Settings\oakkar\My Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester\ATester\bin\Debug\ATester.exe
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester\ATester\bin\Debug\ATester.pdb
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester\ATester\bin\Debug\ATester.xml
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\ATester.vbproj.GenerateResource.Cache
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\ATester.exe
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\ATester.xml
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester\ATester\obj\x86\Debug\ATester.pdb
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester_v1.1\ATester\obj\x86\Debug\ATester.exe
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester_v1.1\ATester\obj\x86\Debug\ATester.xml
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester_v1.1\ATester\obj\x86\Debug\ATester.pdb
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester_v1.1\ATester\bin\Debug\ATester.exe
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester_v1.1\ATester\bin\Debug\ATester.pdb
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester_v1.1\ATester\bin\Debug\ATester.xml
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester_v1.1\ATester\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester_v1.1\ATester\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\oakkar\Documents\Visual Studio 2010\Projects\ATester_v1.1\ATester\obj\x86\Debug\ATester.vbproj.GenerateResource.Cache
